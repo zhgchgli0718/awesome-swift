@@ -1063,6 +1063,7 @@ In parternship with:
 * [Kanna](https://github.com/tid-kijyun/Kanna) - Another XML/HTML parser.
 * [SwiftSoup](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - Headless browser.
+* [ZMarkupParser](https://github.com/ZhgChgLi/ZMarkupParser) - a pure-Swift library that helps you convert HTML strings into NSAttributedString with customized styles and tags.
 
 #### Messaging Protocol
 [back to top](#readme) 
